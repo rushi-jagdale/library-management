@@ -27,6 +27,10 @@ After setting up your database and .env file, run the Flask application.
 
 python app.py
 
+test api on postman
+
+![Screenshot 2024-12-09 122041](https://github.com/user-attachments/assets/a3ee02cf-c845-4303-9977-37ea9983bbc4)
+
 
 
 # Run unit tests
